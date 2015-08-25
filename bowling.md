@@ -1,7 +1,8 @@
 # Ten-pin Bowling
 
 Ten-pin bowling is a sport in which a player, or "bowler" rolls a bowling ball down a wooden lane with the objective of scoring points by knocking down as many pins as possible.
-Standard scoring
+
+# Standard scoring
 
 There are 10 frames in a game and the total score is the sum of all points from each frame plus any bonuses.  In general, one point is scored for each pin that is knocked down.  So if a player knocks down three pins with the first shot, then six with the second, the player would receive a total of nine points for that frame.  If a player knocks down nine pins with the first shot, but misses with the second, the player would also receive nine points for the frame.
 Scenario:
