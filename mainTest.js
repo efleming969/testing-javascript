@@ -1,11 +1,11 @@
-var expect = chai.expect;
+var assert = chai.assert;
 
-describe( 'MainTest', function() {
+describe( 'main tests', function() {
 
-  it( 'sanity', function() {
+  it( 'should have a default greeting', function() {
     var result = sayHello();
-    expect( result ).to.equal( 'hello, world' );
-  });
+    assert.equal( result, 'hello, world' );
+  } );
 
-});
+} );
 
