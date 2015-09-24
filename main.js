@@ -1,4 +1,5 @@
-function sayHello() {
-  return 'hello, world';
-}
+var main = {}
 
+main.buildGreeting = function() {
+  return 'hello, world';
+};
